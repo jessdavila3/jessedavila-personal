@@ -101,6 +101,33 @@ h1,h2,h3 {
     font-family: 'Eczar', serif;
 }
 
+a {
+    font-size: 1.25rem;
+}
+
+h1.title {
+    margin-left: 15%;
+}
+
+#nameTitle {
+    font-size: 5em;
+    letter-spacing: 15px;
+    font-weight: bold;
+}
+#jobTitle{
+    font-size: 2.5rem;
+}
+
+#contact-module {
+    height: 30vh;
+}
+
+#work-module {
+    height: 60vh;
+}
+
+
+
 
 
 
