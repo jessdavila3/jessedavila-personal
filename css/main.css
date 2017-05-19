@@ -97,6 +97,15 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+body {
+    background-color: 	#F8F8FF;
+}
+
+a:hover {
+    -moz-text-decoration-color: orange;
+    text-decoration-color: orange;
+
+}
 h1,h2,h3 {
     font-family: 'Eczar', serif;
 }
@@ -109,9 +118,14 @@ a {
     font-size: 1.25rem;
 }
 
-.title {
+#hero-title {
     margin-left: 15%;
     padding-bottom: 20vh;
+    padding-top: 10vh;
+}
+
+.title {
+    font-size: 3em;
 }
 
 #nameTitle {
@@ -129,6 +143,11 @@ a {
 
 #contact-module {
     height: 30vh;
+}
+
+#contact-info > li {
+    font-size: 2rem;
+    padding-top: 1em;
 }
 
 #work-module {
