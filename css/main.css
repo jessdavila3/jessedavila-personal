@@ -102,20 +102,28 @@ body {
 }
 
 a:hover {
-    -moz-text-decoration-color: orange;
-    text-decoration-color: orange;
+    -moz-text-decoration-color: black;
+    text-decoration-color: black;
 
 }
-h1,h2,h3 {
+h1,h2,h3,h4,h5 {
     font-family: 'Eczar', serif;
 }
 
-#social-links > a{
-    padding: 1.5em;
+nav {
+    background-color: #565656;
+    height: 8vh;
 }
 
-a {
+#social-links > a {
     font-size: 1.25rem;
+        padding: 1.5em;
+        color: #F8F8FF;
+        padding-top: .5rem;
+        display: inline-block;
+
+
+
 }
 
 #hero-title {
@@ -124,34 +132,33 @@ a {
     padding-top: 10vh;
 }
 
-.title {
-    font-size: 3em;
-}
-
 #nameTitle {
+    font-weight: bold;
     font-size: 6em;
     letter-spacing: 15px;
-    font-weight: bold;
     margin-bottom: 0;
     padding-bottom: 0;
 }
+
 #jobTitle{
     margin-top: 0;
     padding-top: 0;
     font-size: 2.25rem;
 }
 
-#contact-module {
-    height: 30vh;
+.title {
+    font-size: 3em;
 }
 
-#contact-info > li {
-    font-size: 2rem;
-    padding-top: 1em;
+
+.module {
+    height: 50vh;
 }
 
-#work-module {
-    height: 60vh;
+.module-list > li {
+    font-size: 1.25rem;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
 }
 
 
