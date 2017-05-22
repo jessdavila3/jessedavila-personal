@@ -128,8 +128,9 @@ nav {
 
 #hero-title {
     margin-left: 15%;
-    padding-bottom: 20vh;
-    padding-top: 10vh;
+    margin-bottom: 20vh;
+    margin-top: 30vh;
+    height: 60vh;
 }
 
 #nameTitle {
@@ -153,6 +154,7 @@ nav {
 
 .module {
     height: 50vh;
+    /*border-top: solid #565656 1px;*/
 }
 
 .module-list > li {
