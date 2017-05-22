@@ -1,0 +1,62 @@
+.container {
+    font-family: 'Lato', sans-serif;
+    background-color: azure;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.red {
+    background-color: red;
+}
+
+.orange {
+    background-color: orange;
+    clear: left;
+}
+
+.green {
+    background-color: green;
+}
+
+.gray {
+    background-color: gray;
+}
+
+.shadow {
+    box-shadow: 10px 10px 5px #888888;
+}
+
+.tile {
+    height: 200px;
+    width: 200px;
+    opacity: .5;
+    margin: 2%;
+    float: left;
+}
+
+.lit {
+    opacity: 1;
+}
+
+h3#start {
+    font-size: 3em;
+    display: inline;
+}
+
+#level {
+    font-size: 2em;
+}
+
+#buttonDisplay {
+    margin-left: 28%;
+    margin-top: 5%;
+}
+
+#infoDisplay {
+    position: relative;
+    left: 5%;
+    bottom: 5%;
+    display: inline;
+}
