@@ -97,6 +97,7 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+
 body {
     background-color: 	#F8F8FF;
 }
@@ -163,16 +164,11 @@ nav {
     padding-bottom: 1rem;
 }
 
-
-
-
-
-
-
-
-
-
-
+   @media only screen and (max-width: 500px) {
+    body {
+        background-color: black;
+    }
+}
 
 
 
