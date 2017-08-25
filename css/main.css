@@ -136,12 +136,6 @@ h1,h2,h3,h4,h5 {
     font-size: 3em;
 }
 
-
-.module {
-    height: 50vh;
-    border-top: solid #565656 1px;
-}
-
 .module-list > li {
     font-size: 1.25rem;
     padding-top: 2rem;
