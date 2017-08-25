@@ -111,33 +111,17 @@ h1,h2,h3,h4,h5 {
     font-family: 'Eczar', serif;
 }
 
-nav {
-    background-color: #565656;
-    height: 8vh;
-}
-
-#social-links > a {
-    font-size: 1.25rem;
-        padding: 1.5em;
-        color: #F8F8FF;
-        padding-top: .5rem;
-        display: inline-block;
-
-
-
-}
-
 #hero-title {
     margin-left: 15%;
-    margin-bottom: 20vh;
-    margin-top: 30vh;
-    height: 60vh;
+    margin-bottom: 15vh;
+    margin-top: 15vh;
+    height: 20vh;
 }
 
 #nameTitle {
     font-weight: bold;
     font-size: 6em;
-    letter-spacing: 15px;
+    letter-spacing: 8px;
     margin-bottom: 0;
     padding-bottom: 0;
 }
@@ -155,19 +139,13 @@ nav {
 
 .module {
     height: 50vh;
-    /*border-top: solid #565656 1px;*/
+    border-top: solid #565656 1px;
 }
 
 .module-list > li {
     font-size: 1.25rem;
     padding-top: 2rem;
     padding-bottom: 1rem;
-}
-
-   @media only screen and (max-width: 500px) {
-    body {
-        background-color: black;
-    }
 }
 
 
