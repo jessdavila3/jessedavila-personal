@@ -119,9 +119,8 @@ h1,h2,h3,h4,h5 {
 
 #hero-title {
     margin-left: 10%;
-    /*
     margin-bottom: 10vh;
-    margin-top: 15vh; */
+    margin-top: 10vh;
     height: 20vh;
 }
 
@@ -136,6 +135,7 @@ h1,h2,h3,h4,h5 {
 #aboutMe {
     padding-top: 10vh;
     margin-right: 10vw;
+    font-size: 1.5rem;
 }
 
 #jobTitle{
@@ -145,7 +145,7 @@ h1,h2,h3,h4,h5 {
 }
 
 #content {
-    padding-top: 40vh;
+    padding-top: 25vh;
 }
 
 .title {
@@ -156,6 +156,10 @@ h1,h2,h3,h4,h5 {
     font-size: 1.25em;
     padding-top: 2rem;
     padding-bottom: 1rem;
+}
+
+a.aboutMeLink {
+    color: purple;
 }
 
 
