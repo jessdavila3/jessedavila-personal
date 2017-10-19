@@ -162,6 +162,11 @@ a.aboutMeLink {
     color: purple;
 }
 
+.thumbnail {
+    height: 300px;
+    width: 450px;
+}
+
 
 
 
