@@ -99,13 +99,13 @@ textarea {
 
 
 body {
-    background-color: 	#F8F8FF;
+    background-color: 	#7A8B99;
 }
 
 #colorTop {
     width: 100vw;
     height: 5px;
-    background-color: #22E5FF;
+    background-color: #A9DDD6;
 }
 
 a:hover {
@@ -159,7 +159,7 @@ h1,h2,h3,h4,h5 {
 }
 
 a.aboutMeLink {
-    color: #22E5FF;
+    color: #A9DDD6;
 }
 
 .thumbnail {
